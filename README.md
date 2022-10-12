@@ -6,11 +6,11 @@
 
 ### 1. How to create Calculator       
        
-   - Create `index.html` file and put tis code.
-   
-    ```
+   - Create `index.html` file and put tis code.   
+ ```   
     <div id="root"></div>
-    ```
+    
+ ```
    - create `style.css` file and put tis code.
    ```
    .app-container {
