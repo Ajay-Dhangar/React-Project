@@ -158,8 +158,9 @@ ReactDOM.render(
 ```
 
 **OUTPUT**
+
 ![image](https://user-images.githubusercontent.com/99037494/195266894-c17add7b-239c-4c03-9aa7-f2f858da2b71.png)
 
 
-
+### 2. connect4 (React-app) 
 
