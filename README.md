@@ -2,7 +2,7 @@
 
 1. [Calculator](https://ajay-dhangar.github.io/Calculator/)
 
-2. [connect4 (Game)]( )
+2. [Tick-Tack-Toe-Game](https://ajay-dhangar.github.io/csb-ppsm8n/)
 
 ### 1. How to create Calculator       
        
@@ -162,5 +162,5 @@ ReactDOM.render(
 ![image](https://user-images.githubusercontent.com/99037494/195266894-c17add7b-239c-4c03-9aa7-f2f858da2b71.png)
 
 
-### 2. connect4 (React-app) 
+### 2. Tick-Tack-Toe-Game  
 
